@@ -1,4 +1,9 @@
-# pokedex
+<p align="center">
+<img src="./.github/pokemon.png"></img>
+</p>
+
+# Pokedex created with VueJs
+
 
 ## Project setup
 ```
@@ -22,3 +27,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Preview: 
+- [PokeVue](https://clebsonsantos.com/).
