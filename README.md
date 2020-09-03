@@ -29,4 +29,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Preview: 
-- [PokeVue](https://clebsonsantos.com/).
+- [PokeVue](https://poke-vuejs.netlify.app/).
